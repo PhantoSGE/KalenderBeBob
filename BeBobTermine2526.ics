@@ -135,6 +135,16 @@ DESCRIPTION:Jacky Ratten - DC Chaos 2.0
 END:VEVENT
 
 BEGIN:VEVENT
+UID:dart-20260227T200000-jacky-ratten-dartkiller-1@excel2ics
+DTSTAMP:20260211T180000Z
+DTSTART;TZID=Europe/Berlin:20260227T200000
+DTEND;TZID=Europe/Berlin:20260227T230000
+SUMMARY:Jacky Ratten - Dartkiller 1
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:Jacky Ratten - Dartkiller 1
+END:VEVENT
+
+BEGIN:VEVENT
 UID:dart-20260227T200000-aqua-legends-bebob-huetchenspieler@excel2ics
 DTSTAMP:20260108T220000Z
 DTSTART;TZID=Europe/Berlin:20260227T200000
