@@ -305,6 +305,16 @@ DESCRIPTION:BeBob Hütchenspieler - Auqa Men
 END:VEVENT
 
 BEGIN:VEVENT
+UID:dart-20260424T200000-jackyrattenpokal
+DTSTAMP:20260319T220000Z
+DTSTART;TZID=Europe/Berlin:20260510T160000
+DTEND;TZID=Europe/Berlin:20260510T190000
+SUMMARY:Jacky Steelhunter - Jacky Ratten
+LOCATION:Darmstädter Straße 66, 64354 Reinheim
+DESCRIPTION:Jacky Steelhunter - Jacky Ratten
+END:VEVENT
+
+BEGIN:VEVENT
 UID:dart-20260522T200000-aqua-flying-horses-bebob-huetchenspieler@excel2ics
 DTSTAMP:20260108T220000Z
 DTSTART;TZID=Europe/Berlin:20260522T200000
