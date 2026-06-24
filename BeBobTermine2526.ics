@@ -375,10 +375,10 @@ DESCRIPTION:Darts Corner - BeBob Hütchenspieler
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dart-20260626T200000-bebob-huetchenspieler-spitzenkiller@excel2ics
-DTSTAMP:20260108T220000Z
-DTSTART;TZID=Europe/Berlin:20260626T200000
-DTEND;TZID=Europe/Berlin:20260626T230000
+UID:dart-20260731T200000-bebob-huetchenspieler-spitzenkiller@excel2ics
+DTSTAMP:20260624120000Z
+DTSTART;TZID=Europe/Berlin:20260731T200000
+DTEND;TZID=Europe/Berlin:20260731230000
 SUMMARY:BeBob Hütchenspieler - Spitzenkiller
 LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
 DESCRIPTION:BeBob Hütchenspieler - Spitzenkiller
