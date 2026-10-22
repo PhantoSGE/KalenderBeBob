@@ -640,6 +640,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20261030T200000
 DTEND;TZID=Europe/Berlin:20261030T230000
 SUMMARY:DC Chaos 2.0 - Jacky Ratten
+LOCATION:Feuerwehrverein Eich 1972 e.V. - In den Eichen 4\, 64319 Pfungstadt
 DESCRIPTION:3K Darts · Spieltag 4 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -649,6 +650,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20261113T200000
 DTEND;TZID=Europe/Berlin:20261113T230000
 SUMMARY:Lucky Strike 2 - Jacky Ratten
+LOCATION:In der Einkaufspassage - Darmstädter Straße 66\, 64354 Reinheim
 DESCRIPTION:3K Darts · Spieltag 6 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -748,6 +750,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270312T200000
 DTEND;TZID=Europe/Berlin:20270312T230000
 SUMMARY:Bulldozer 2 - Jacky Ratten
+LOCATION:Ireland Pub - Mauerstraße 22\, 64289 Darmstadt
 DESCRIPTION:3K Darts · Spieltag 16 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -787,6 +790,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270423T200000
 DTEND;TZID=Europe/Berlin:20270423T230000
 SUMMARY:Lucky Strike 3 - Jacky Ratten
+LOCATION:In der Einkaufspassage - Darmstädter Straße 66\, 64354 Reinheim
 DESCRIPTION:3K Darts · Spieltag 20 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -796,6 +800,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270507T200000
 DTEND;TZID=Europe/Berlin:20270507T230000
 SUMMARY:Lucky Strike 1 - Jacky Ratten
+LOCATION:In der Einkaufspassage - Darmstädter Straße 66\, 64354 Reinheim
 DESCRIPTION:3K Darts · Spieltag 21 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -805,6 +810,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270514T200000
 DTEND;TZID=Europe/Berlin:20270514T230000
 SUMMARY:SV Schwanheim 1 - Jacky Ratten
+LOCATION:Sportplatz Schwanheim - Außerhalb 15\, 64625 Bensheim
 DESCRIPTION:3K Darts · Spieltag 22 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
