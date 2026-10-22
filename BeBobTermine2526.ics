@@ -708,6 +708,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270212T200000
 DTEND;TZID=Europe/Berlin:20270212T230000
 SUMMARY:Jacky Steelhunter - Jacky Ratten
+LOCATION:Darmstädter Straße 66\, 64354 Reinheim
 DESCRIPTION:3K Darts · Spieltag 12 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -717,6 +718,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270219T200000
 DTEND;TZID=Europe/Berlin:20270219T230000
 SUMMARY:Checkpoint - Jacky Ratten
+LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 DESCRIPTION:3K Darts · Spieltag 13 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -765,6 +767,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20270409T200000
 DTEND;TZID=Europe/Berlin:20270409T230000
 SUMMARY:Taillight - Jacky Ratten
+LOCATION:Würzburger Straße 56\, 64291 Darmstadt
 DESCRIPTION:3K Darts · Spieltag 18 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
@@ -822,6 +825,7 @@ DTSTAMP:20261022T130000Z
 DTSTART;TZID=Europe/Berlin:20261204T200000
 DTEND;TZID=Europe/Berlin:20261204T230000
 SUMMARY:Flying Eagles 1 - Jacky Ratten
+LOCATION:Angelgartenstraße 55\, 64846 Groß-Zimmern
 DESCRIPTION:3K Darts · Spieltag 8 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 END:VCALENDAR
