@@ -805,4 +805,23 @@ SUMMARY:SV Schwanheim 1 - Jacky Ratten
 DESCRIPTION:3K Darts · Spieltag 22 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
 END:VEVENT
 
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20261106-5@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20261106T200000
+DTEND;TZID=Europe/Berlin:20261106T230000
+SUMMARY:Jacky Ratten - Bulldozer 2
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 5 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20261204-8@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20261204T200000
+DTEND;TZID=Europe/Berlin:20261204T230000
+SUMMARY:Flying Eagles 1 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 8 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
 END:VCALENDAR
