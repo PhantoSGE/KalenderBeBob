@@ -633,4 +633,176 @@ SUMMARY:Abschlussfeier
 DESCRIPTION:Abschlussfeier
 END:VEVENT
 
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20261030-4@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+DTEND;TZID=Europe/Berlin:20261030T230000
+SUMMARY:DC Chaos 2.0 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 4 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20261113-6@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20261113T200000
+DTEND;TZID=Europe/Berlin:20261113T230000
+SUMMARY:Lucky Strike 2 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 6 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20261127-7@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+DTEND;TZID=Europe/Berlin:20261127T230000
+SUMMARY:Jacky Ratten - Taillight
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 7 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20261211-2@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20261211T200000
+DTEND;TZID=Europe/Berlin:20261211T230000
+SUMMARY:Jacky Ratten - Checkpoint
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 2 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270115-9@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270115T200000
+DTEND;TZID=Europe/Berlin:20270115T230000
+SUMMARY:Jacky Ratten - Lucky Strike 3
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 9 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270122-10@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270122T200000
+DTEND;TZID=Europe/Berlin:20270122T230000
+SUMMARY:Jacky Ratten - Lucky Strike 1
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 10 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270129-11@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270129T200000
+DTEND;TZID=Europe/Berlin:20270129T230000
+SUMMARY:Jacky Ratten - SV Schwanheim 1
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 11 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270212-12@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270212T200000
+DTEND;TZID=Europe/Berlin:20270212T230000
+SUMMARY:Jacky Steelhunter - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 12 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270219-13@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270219T200000
+DTEND;TZID=Europe/Berlin:20270219T230000
+SUMMARY:Checkpoint - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 13 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270226-14@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270226T200000
+DTEND;TZID=Europe/Berlin:20270226T230000
+SUMMARY:Jacky Ratten - Dartkiller 1
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 14 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270305-15@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270305T200000
+DTEND;TZID=Europe/Berlin:20270305T230000
+SUMMARY:Jacky Ratten - DC Chaos 2.0
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 15 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270312-16@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270312T200000
+DTEND;TZID=Europe/Berlin:20270312T230000
+SUMMARY:Bulldozer 2 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 16 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270319-17@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270319T200000
+DTEND;TZID=Europe/Berlin:20270319T230000
+SUMMARY:Jacky Ratten - Lucky Strike 2
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 17 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270409-18@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270409T200000
+DTEND;TZID=Europe/Berlin:20270409T230000
+SUMMARY:Taillight - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 18 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270416-19@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270416T200000
+DTEND;TZID=Europe/Berlin:20270416T230000
+SUMMARY:Jacky Ratten - Flying Eagles 1
+LOCATION:BeBob - Pfarrgasse 3 - 64572 Worfelden
+DESCRIPTION:3K Darts · Spieltag 19 · Heimspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270423-20@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270423T200000
+DTEND;TZID=Europe/Berlin:20270423T230000
+SUMMARY:Lucky Strike 3 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 20 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270507-21@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270507T200000
+DTEND;TZID=Europe/Berlin:20270507T230000
+SUMMARY:Lucky Strike 1 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 21 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
+BEGIN:VEVENT
+UID:jacky-ratten-2627-20270514-22@kalenderbebob
+DTSTAMP:20261022T130000Z
+DTSTART;TZID=Europe/Berlin:20270514T200000
+DTEND;TZID=Europe/Berlin:20270514T230000
+SUMMARY:SV Schwanheim 1 - Jacky Ratten
+DESCRIPTION:3K Darts · Spieltag 22 · Auswärtsspiel\nQuelle: https://portal.3k-darts.com/frontend/events/6/event/27843/participants/458143
+END:VEVENT
+
 END:VCALENDAR
